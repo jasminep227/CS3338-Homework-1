@@ -1,3 +1,31 @@
+feature-about-me
+
+commit ae30a2bb735279ab6f5e554ea7ddabbd2ee1c62e
+Merge: adf2a56 26be08d
+Author: Jasmine Pineda <115665950+jasminep227@users.noreply.github.com>
+Date:   Thu Feb 13 15:12:39 2025 -0800
+
+    Update index.html with new changes
+
+commit adf2a56f154c370312616b5197f1eb14db58a5cb
+Author: Jasmine Pineda <115665950+jasminep227@users.noreply.github.com>
+Date:   Thu Feb 13 15:07:38 2025 -0800
+
+    Update index.html with new changes
+
+commit 4682d5ca83ff2991cadccc248e09244b51f5d5a7
+Author: Jasmine Pineda <115665950+jasminep227@users.noreply.github.com>
+Date:   Thu Feb 13 15:04:53 2025 -0800
+
+    Add git_log.txt and repo-location.txt
+
+commit 26be08dffab31f95cc365245267227683df566f4
+Author: gaurichahal <gaurichahal@gmail.com>
+Date:   Thu Feb 13 14:56:11 2025 -0800
+
+    Update index.html
+
+main
 commit f643dca22353e771d55b9482e3024208c00ba3a7
 Merge: f37cdce 2199fae
 Author: Jasmine Pineda <115665950+jasminep227@users.noreply.github.com>
